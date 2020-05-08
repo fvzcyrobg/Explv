@@ -6,7 +6,7 @@ export class OSBotConverter extends Converter {
     
     constructor() {
         super();
-        this.javaArea = "PENIS";
+        this.javaArea = "Area";
         this.javaPosition = "Position";
     }
 }
